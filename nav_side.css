@@ -28,11 +28,16 @@
 }
 .logo img {
     width:150px;
+    
+    
 }
 
 .logo-icon{
     display:none;
     width: 45px;
+    padding-right: 65px;
+    
+    
 } 
 
 .nav-links{
@@ -109,10 +114,12 @@
 @media only screen and (max-width:600px){
 
 .side-nav{
-    width:110px;
+    width:130px;
 }
 .logo-icon{
-    display: block;
+    display:block;
+    
+    
     
 }
 .logo-img{
